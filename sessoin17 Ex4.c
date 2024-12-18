@@ -52,7 +52,7 @@ void displayMenu(){
 	printf("5.Sap xep mang.\n");
 	printf("6.Nhap vao mot phan tu vao tim kiem phan tu trong mang\n");
 	printf("7.Thoat.\n");
-	printf("----> Lua chon cua ban : ");
+	printf(" Lua chon cua ban : ");
 	scanf("%d", &choice);
 }
 //Menu 1: Nhap vao so phan tu va tung phan tu
